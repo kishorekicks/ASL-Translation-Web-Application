@@ -1,0 +1,23 @@
+<div class="container">
+  <h2 style="display: flex; justify-content: center; align-items: center">
+    Meet our Team SYNERGY
+    <img height="80" src="/assets/brand/Untitled_design-Photoroom__1_2-removebg-preview.png" alt="Logo" />
+  </h2>
+  <p>Bridging Silence with Technology – Transforming ASL into Voice and Text for a More Inclusive World!</p>
+git push -u origin main  <div class="cards-container">
+    @for (member of teamMembers; track member) {
+      <ion-card>
+        <ion-badge>{{ member.title }}</ion-badge>
+        <ion-card-header>
+          <ion-avatar>
+            <img [src]="member.avatar" [alt]="member.name" />
+          </ion-avatar>
+          <ion-card-title>{{ member.name }}</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+          <p>{{ member.bio }}</p>
+        </ion-card-content>
+      </ion-card>
+    }
+  </div>
+</div>
