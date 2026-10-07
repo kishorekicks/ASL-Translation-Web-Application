@@ -1,61 +1,18 @@
-<h1 align="center">👋 Sign Translate</h1>
+# ASL Translation Web Application
 
-<p align="center">
-  <i>
-    Revolutionizing Sign Language Communication with Cutting-Edge Real-Time Translation Models.
-    <br>
-    Enjoy seamless Sign Language Translation on desktop and mobile.
-  </i>
-</p>
+An accessibility-focused web application for translating between spoken and signed language.
 
-<p align="center">
-  <a href="https://sign.mt/"><strong>sign.mt</strong></a>
-  <br>
-</p>
+## Project Information
 
-<p align="center">
-  <a href="https://github.com/sign/.github/blob/main/CONTRIBUTING.md">Contribution Guidelines</a>
-  ·
-  <a href="https://github.com/sign/translate/issues">Submit an Issue</a>
-</p>
+- **Maintained by:** [@kishorekicks](https://github.com/kishorekicks)
+- **Repository:** [ASL-Translation-Web-Application](https://github.com/kishorekicks/ASL-Translation-Web-Application)
+- **Focus:** Accessible, real-time sign-language translation experiences for desktop and mobile.
 
-<p align="center">
-  <a href="https://github.com/sign/translate/actions/workflows/client.yml">
-    <img src="https://github.com/sign/translate/actions/workflows/client.yml/badge.svg" alt="Client Build Test Status Badge" />
-  </a>
-  <a href="https://github.com/sign/translate/actions/workflows/server.yml">
-    <img src="https://github.com/sign/translate/actions/workflows/server.yml/badge.svg" alt="Server Build Test Status Badge" />
-  </a>
-  <a href="https://coveralls.io/github/sign/translate?branch=master">
-    <img src="https://coveralls.io/repos/github/sign/translate/badge.svg?branch=master" alt="Coverage Status Badge" />
-  </a>
-  <a href="https://github.com/sign/translate/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License: CC BY-NC-SA 4.0 Badge" />
-  </a>
-</p>
+## Credits and Licence
 
-<p align="center">
-  <a href="https://github.com/sign/translate/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/sign/translate" alt="GitHub Stars for sign/translate" />
-  </a>
-  <a href="https://github.com/sign/translate/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/sign/translate" alt="GitHub Forks for sign/translate" />
-  </a>
-  <a href="https://github.com/sign/translate/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/contributors/sign/translate" alt="GitHub Contributors for sign/translate" />
-  </a>
-  <a href="https://github.com/sign/translate/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/sign/translate" alt="GitHub Issues for sign/translate" />
-  </a>
-</p>
+This project is adapted from [sign/translate](https://github.com/sign/translate) by sign.mt ltd. It retains the original project's **CC BY-NC-SA 4.0** licence; see [LICENSE.md](LICENSE.md) for the full terms.
 
-<p align="center">
-  <a href="https://sign.mt" target="_blank">
-    <img src="src/assets/promotional/about/hero.webp" alt="Sign Language Translation Demo Image" />
-  </a>
-</p>
-
-<hr>
+---
 
 ## Key Features
 
